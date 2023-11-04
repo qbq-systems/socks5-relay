@@ -1,0 +1,46 @@
+#
+# version: 23.10.2
+#
+#
+# custom
+#
+commit.sh
+socks5-relay
+test*.sh
+#
+# idea
+#
+.idea/
+#
+# node
+#
+node_modules
+#
+# svelte
+#
+.svelte
+.svelte-kit
+#
+# temp
+#
+build
+.DS_Store
+*.elf
+.env
+dist
+*.log
+*-lock.*
+target
+tmp
+*.lock
+vendor
+*.zst
+#
+# vscode
+#
+.vscode/
+#
+# yarn
+#
+.yarn/
+.yarnrc.yml
